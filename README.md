@@ -1,45 +1,21 @@
 # AdventJS 2023
 
-## ¡Hola! 
-Este es mi repositorio inspirado en el reto Advent.js, el cual contiene **mis soluciones** propuestas para cumplir con el reto. Los retos fueron propuestos por [@MiduDev](https://github.com/midudev "@MiduDev") en https://adventjs.dev/es.
+**¡Hola!** Este es mi repositorio inspirado en el reto Advent.js, el cual contiene **mis soluciones** propuestas para cumplir con el reto. Los retos fueron propuestos por [@MiduDev](https://github.com/midudev "@MiduDev") en https://adventjs.dev/es.
 
-Advent.js, es un reto pensado en mejor tu lógica de programación, el cual consiste en **24 días, 24 retos** de programación con ```JavaScript``` o ```TypeScript```. En este repositorio solo seran de javascript.
+
+Advent.js, es un reto pensado en mejor tu lógica de programación, el cual consiste en **25 días, 25 retos** de programación con ```JavaScript``` o ```TypeScript```. En este repositorio solo se resolveran usando javascript.
 
 <p align="center"> 
-  <!-- <img width="460" height="300" src="https://user-images.githubusercontent.com/91866094/206088511-972c5177-74cf-48fc-be29-c42e0a51fb6e.png"/> -->
+  <img  height="300" src="https://github.com/jaimes1br/AdventJS-2023/assets/91866094/8576cdc2-1997-460e-bfa0-018a960a06ea"/>
 </p>
 
-<h3 align="center">🧑‍🚀 24 días de retos con JavaScript • <a href="https://adventjs.dev">adventJS</a> 🚀</h3>
+<h3 align="center">🧑‍🚀 25 días de retos con JavaScript • <a href="https://adventjs.dev">adventJS</a> 🚀</h3>
 
 ### 🕹️ Retos
-
 
 |  #  |                  Reto                       |   Disponible    |                Solución                  |  Puntos  |  Nivel  |
 | :-: | :------------------------------------------------------------------: | :------------:  | :----------------------------------------: | :---------: | :---------: |
 | 01  ||       ✅        | [Mirar](Retos//README.md) |      |    🟢    |  
-| 02  ||       ❌        | [Mirar](README.md) |      |      |
-| 03  ||       ❌        | [Mirar](README.md) |      |      |
-| 04  ||       ❌        | [Mirar](README.md) |      |      |
-| 05  ||       ❌        | [Mirar](README.md) |      |      |
-| 06  ||       ❌        | [Mirar](README.md) |      |      |
-| 07  ||       ❌        | [Mirar](README.md) |      |      |
-| 08  ||       ❌        | [Mirar](README.md) |      |      |
-| 09  ||       ❌        | [Mirar](README.md) |      |      |
-| 10  ||       ❌        | [Mirar](README.md) |      |      |
-| 11  ||       ❌        | [Mirar](README.md) |      |      |
-| 12  ||       ❌        | [Mirar](README.md) |      |      |
-| 13  ||       ❌        | [Mirar](README.md) |      |      |
-| 14  ||       ❌        | [Mirar](README.md) |      |      |
-| 15  ||       ❌        | [Mirar](README.md) |      |      |
-| 16  ||       ❌        | [Mirar](README.md) |      |      |
-| 17  ||       ❌        | [Mirar](README.md) |      |      |
-| 18  ||       ❌        | [Mirar](README.md) |      |      |
-| 19  ||       ❌        | [Mirar](README.md) |      |      |
-| 20  ||       ❌        | [Mirar](README.md) |      |      |
-| 21  ||       ❌        | [Mirar](README.md) |      |      |
-| 22  ||       ❌        | [Mirar](README.md) |      |      |
-| 23  ||       ❌        | [Mirar](README.md) |      |      |
-| 24  ||       ❌        | [Mirar](README.md) |      |      |
 
 
 ### 🧪 Tests
