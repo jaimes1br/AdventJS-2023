@@ -16,6 +16,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 |  #  |                  Reto                       |   Disponible    |                Solución                  |  Puntos  |  Nivel  |
 | :-: | :------------------------------------------------------------------: | :------------:  | :----------------------------------------: | :---------: | :---------: |
 | 01  |     ¡Primer regalo repartido!     |       ✅        | [Mirar](retos/01_primer_regalo/README.md) |   250   |    🟢    |  
+| 02  |   Ponemos en marcha la fábrica    |       ✅        | [Mirar](retos/02_marcha_fabrica/README.md) |   270   |    🟢    |  
 
 
 ### 🧪 Tests
