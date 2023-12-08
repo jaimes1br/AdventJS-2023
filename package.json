@@ -4,7 +4,8 @@
   "description": "Soluciones a los retos del AdventJS 2023",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose",
+    "test:1": "jest -i retos/01_primer_regalo"
   },
   "keywords": [
     "javascript",
