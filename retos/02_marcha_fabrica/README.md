@@ -28,6 +28,16 @@ const materials = 'psli'
 manufacture(gifts, materials) // []
 ```
 
+## Solución propuesta
+
+```javascript
+function manufacture(gifts, materials) {
+    return gifts.filter((gift) =>
+        [...gift].every(char => materials.includes(char))
+    )
+}
+```
+
 ---
 
 ### Puntos conseguidos: 270
