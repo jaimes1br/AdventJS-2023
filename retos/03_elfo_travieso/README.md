@@ -27,3 +27,22 @@ A tener en cuenta:
 - **Siempre habrá un paso de diferencia o ninguno.**
 - **La modificación puede ocurrir en cualquier lugar de la cadena.**
 - **La secuencia original puede estar vacía**
+
+## Solución propuesta
+
+```javascript
+function findNaughtyStep(original, modified) {   
+    if(original.length < modified.length){
+        [original,modified] = [modified,original]
+    }
+
+    return [...original].filter((l,i) => l !== modified[i])[0] ?? ''
+}
+```
+
+---
+
+### Puntos conseguidos: 370
+
+* 3160 ops/s
+* **Complejidad cognitiva:** 3
