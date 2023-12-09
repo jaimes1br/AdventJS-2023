@@ -18,6 +18,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 01  |     ¡Primer regalo repartido!     |       ✅        | [Mirar](retos/01_primer_regalo/README.md) |   250   |    🟢    |  
 | 02  |   Ponemos en marcha la fábrica    |       ✅        | [Mirar](retos/02_marcha_fabrica/README.md) |   270   |    🟢    |  
 | 03  |         El elfo travieso          |       ✅        | [Mirar](retos/03_elfo_travieso/README.md) |   370   |    🟢    |  
+| 04  |  Dale la vuelta a los paréntesis  |       ✅        | [Mirar](retos/04_vuelta_parentesis/README.md) |   280   |    🟠    |  
 
 
 ### 🧪 Tests
