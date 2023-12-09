@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest --verbose",
     "test:1": "jest -i retos/01_primer_regalo",
-    "test:2": "jest -i retos/02_marcha_fabrica"
+    "test:2": "jest -i retos/02_marcha_fabrica",
+    "test:3": "jest -i retos/03_elfo_travieso"
   },
   "keywords": [
     "javascript",
