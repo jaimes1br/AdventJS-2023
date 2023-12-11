@@ -19,6 +19,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 02  |   Ponemos en marcha la fábrica    |       ✅        | [Mirar](retos/02_marcha_fabrica/README.md) |   270   |    🟢    |  
 | 03  |         El elfo travieso          |       ✅        | [Mirar](retos/03_elfo_travieso/README.md) |   370   |    🟢    |  
 | 04  |  Dale la vuelta a los paréntesis  |       ✅        | [Mirar](retos/04_vuelta_parentesis/README.md) |   280   |    🟠    |  
+| 05  |      El CyberTruck de Santa       |       ✅        | [Mirar](retos/05_cybertruck/README.md) |   150   |    🟠    |  
 
 
 ### 🧪 Tests
