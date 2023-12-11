@@ -9,7 +9,9 @@
     "test:2": "jest -i retos/02_marcha_fabrica",
     "test:3": "jest -i retos/03_elfo_travieso",
     "test:4": "jest -i retos/04_vuelta_parentesis",
-    "test:5": "jest -i retos/05_cybertruck"
+    "test:5": "jest -i retos/05_cybertruck",
+    "test:6": "jest -i retos/06_renos"
+
   },
   "keywords": [
     "javascript",
