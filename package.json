@@ -12,7 +12,8 @@
     "test:5": "jest -i retos/05_cybertruck",
     "test:6": "jest -i retos/06_renos",
     "test:7": "jest -i retos/07_las_cajas",
-    "test:8": "jest -i retos/08_ordenando_almacen"
+    "test:8": "jest -i retos/08_ordenando_almacen",
+    "test:9": "jest -i retos/09_alternar_luces"
 
   },
   "keywords": [
