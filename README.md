@@ -22,6 +22,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 05  |      El CyberTruck de Santa       |       ✅        | [Mirar](retos/05_cybertruck/README.md) |   150   |    🟠    |  
 | 06  |        Los renos a prueba         |       ✅        | [Mirar](retos/06_renos/README.md) |   170   |    🟢    |  
 | 07  |          Las cajas en 3D          |       ✅        | [Mirar](retos/07_las_cajas/README.md) |   270   |    🟢    |  
+| 08  |       Ordenando el almacén        |       ✅        | [Mirar](retos/08_ordenando_almacen/README.md) |   260   |    🟠    |  
 
 
 ### 🧪 Tests
