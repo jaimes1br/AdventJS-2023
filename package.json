@@ -13,7 +13,9 @@
     "test:6": "jest -i retos/06_renos",
     "test:7": "jest -i retos/07_las_cajas",
     "test:8": "jest -i retos/08_ordenando_almacen",
-    "test:9": "jest -i retos/09_alternar_luces"
+    "test:9": "jest -i retos/09_alternar_luces",
+    "test:10":"jest -i retos/10_propio_arbol"
+
 
   },
   "keywords": [
