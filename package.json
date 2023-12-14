@@ -14,7 +14,8 @@
     "test:7": "jest -i retos/07_las_cajas",
     "test:8": "jest -i retos/08_ordenando_almacen",
     "test:9": "jest -i retos/09_alternar_luces",
-    "test:10":"jest -i retos/10_propio_arbol"
+    "test:10":"jest -i retos/10_propio_arbol",
+    "test:11":"jest -i retos/11_elfos_estudiosos"
 
 
   },
