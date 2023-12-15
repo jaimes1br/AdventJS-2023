@@ -26,6 +26,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 09  |         Alterna las luces         |       ✅        | [Mirar](retos/09_alternar_luces/README.md) |   340   |    🟢    |  
 | 10  |  Crea tu propio árbol de navidad  |       ✅        | [Mirar](retos/10_propio_arbol/README.md) |   180   |    🟢    |  
 | 11  |       Los elfos estudiosos        |       ✅        | [Mirar](retos/11_elfos_estudiosos/README.md) |    30   |    🟠    |  
+| 12  |       ¿Es una copa válida?        |       ✅        | [Mirar](retos/12_copia_valida/README.md) |    35   |    🟠    |  
 
 
 ### 🧪 Tests
