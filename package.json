@@ -16,7 +16,9 @@
     "test:9": "jest -i retos/09_alternar_luces",
     "test:10":"jest -i retos/10_propio_arbol",
     "test:11":"jest -i retos/11_elfos_estudiosos",
-    "test:12":"jest -i retos/12_copia_valida"
+    "test:12":"jest -i retos/12_copia_valida",
+    "test:13":"jest -i retos/13_calculando_tiempo"
+
 
 
   },
