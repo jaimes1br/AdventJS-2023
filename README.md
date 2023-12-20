@@ -30,6 +30,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 13  |       Calculando el tiempo        |       ✅        | [Mirar](retos/13_calculando_tiempo/README.md) |    240   |    🟢    |  
 | 14  |          Evita la alarma          |       ✅        | [Mirar](retos/14_evita_alarma/README.md) |    290   |    🟠    |  
 | 15  |          Robot autónomo           |       ✅        | [Mirar](retos/15_robot_autonomo/README.md) |    60   |    🟠    |  
+| 16  |       Despliegue en viernes       |       ✅        | [Mirar](retos/16_despliegue_viernes/README.md) |    25   |    🟢    |  
 
 
 ### 🧪 Tests
