@@ -34,6 +34,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 17  |      Optimizando el alquiler      |       ✅        | [Mirar](retos/17_optimizando_alquiler/README.md) |   160   |    🟢    |  
 | 18  |         El reloj digital          |       ✅        | [Mirar](retos/18_reloj_digital/README.md) |    70   |    🔴    |  
 | 19  |       Enfrenta el sabotaje        |       ✅        | [Mirar](retos/19_enfrenta_sabotaje/README.md) |    25   |    🟠    |  
+| 20  |        Distribuye el peso         |       ✅        | [Mirar](retos/20_distribuye_peso/README.md) |    25   |    🔴    |  
 
 
 ### 🧪 Tests
