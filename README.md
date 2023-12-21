@@ -31,8 +31,9 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 14  |          Evita la alarma          |       ✅        | [Mirar](retos/14_evita_alarma/README.md) |    290   |    🟠    |  
 | 15  |          Robot autónomo           |       ✅        | [Mirar](retos/15_robot_autonomo/README.md) |    60   |    🟠    |  
 | 16  |       Despliegue en viernes       |       ✅        | [Mirar](retos/16_despliegue_viernes/README.md) |    25   |    🟢    |  
+| 17  |      Optimizando el alquiler      |       ✅        | [Mirar](retos/17_optimizando_alquiler/README.md) |   160   |    🟢    |  
 
-
+Optimizando el alquiler
 ### 🧪 Tests
 
 Antes de poder ejecutar cualquier prueba, es necesario instalar la dependencia de `Jest`. `Jest` es un marco de pruebas para JS.
