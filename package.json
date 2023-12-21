@@ -22,10 +22,8 @@
     "test:15":"jest -i retos/15_robot_autonomo",
     "test:16":"jest -i retos/16_despliegue_viernes",
     "test:17":"jest -i retos/17_optimizando_alquiler",
-    "test:18":"jest -i retos/18_reloj_digital"
-
-
-
+    "test:18":"jest -i retos/18_reloj_digital",
+    "test:19":"jest -i retos/19_enfrenta_sabotaje"
 
   },
   "keywords": [
