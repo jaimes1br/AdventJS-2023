@@ -11,7 +11,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 
 <h3 align="center">🧑‍🚀 25 días de retos con JavaScript • <a href="https://adventjs.dev">adventJS</a> 🚀</h3>
 
-### 🕹️ Retos
+## 🕹️ Retos
 
 |  #  |                  Reto                       |   Disponible    |                Solución                  |  Puntos  |  Nivel  |
 | :-: | :------------------------------------------------------------------: | :------------:  | :----------------------------------------: | :---------: | :---------: |
@@ -36,7 +36,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 19  |       Enfrenta el sabotaje        |       ✅        | [Mirar](retos/19_enfrenta_sabotaje/README.md) |    25   |    🟠    |  
 | 20  |        Distribuye el peso         |       ✅        | [Mirar](retos/20_distribuye_peso/README.md) |    25   |    🔴    |  
 | 21  |          Mensaje binario          |       ✅        | [Mirar](retos/21_mensaje_binario/README.md) |   100   |    🟠    |  
-
+| 22  |     Lenguaje de programación      |       ✅        | [Mirar](retos/22_lenguaje_programacion/README.md) |   170   |    🟢    |  
 
 ### 🧪 Tests
 

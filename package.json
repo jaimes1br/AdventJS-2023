@@ -25,8 +25,9 @@
     "test:18":"jest -i retos/18_reloj_digital",
     "test:19":"jest -i retos/19_enfrenta_sabotaje",
     "test:20":"jest -i retos/20_distribuye_peso",
-    "test:21":"jest -i retos/21_mensaje_binario"
-
+    "test:21":"jest -i retos/21_mensaje_binario",
+    "test:22":"jest -i retos/22_lenguaje_programacion"
+    
   },
   "keywords": [
     "javascript",
