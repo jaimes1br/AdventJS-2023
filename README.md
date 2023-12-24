@@ -2,7 +2,6 @@
 
 **¡Hola!** Este es mi repositorio inspirado en el reto Advent.js, el cual contiene **mis soluciones** propuestas para cumplir con el reto. Los retos fueron propuestos por [@MiduDev](https://github.com/midudev "@MiduDev") en https://adventjs.dev/es.
 
-
 Advent.js, es un reto pensado en mejor tu lógica de programación, el cual consiste en **25 días, 25 retos** de programación con ```JavaScript``` o ```TypeScript```. En este repositorio solo se resolveran usando javascript.
 
 <p align="center"> 
@@ -37,6 +36,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 20  |        Distribuye el peso         |       ✅        | [Mirar](retos/20_distribuye_peso/README.md) |    25   |    🔴    |  
 | 21  |          Mensaje binario          |       ✅        | [Mirar](retos/21_mensaje_binario/README.md) |   100   |    🟠    |  
 | 22  |     Lenguaje de programación      |       ✅        | [Mirar](retos/22_lenguaje_programacion/README.md) |   170   |    🟢    |  
+| 23  |       La comida de Navidad        |       ✅        | [Mirar](retos/23_comida_navidad/README.md) |   140   |    🟢    |  
 
 ### 🧪 Tests
 
