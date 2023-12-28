@@ -60,12 +60,12 @@ npm run test:n  # Para correr una prueba ind. "n" es el número del reto.
 npm run test:1  # Ejectuta el test del reto 1
 ```
 
-### Posición -->
+### Posición
 
 El último ejercicio lo realice el 27 de diciembre, para el envió de mi solución, mi resultado en posición fue el siguiente.
 
-<p align="center"> 
-    <img src=""/>
+<p align="center">
+    <img src="https://github.com/jaimes1br/AdventJS-2023/assets/91866094/caa898b3-4772-42d6-9db1-79f5a989422a"/>
 </p>
 
 El tercer año que completo este reto, me siento contento de realizarlo, esperamos el siguiente con ansias.
