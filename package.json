@@ -28,8 +28,8 @@
     "test:21":"jest -i retos/21_mensaje_binario",
     "test:22":"jest -i retos/22_lenguaje_programacion",
     "test:23":"jest -i retos/23_comida_navidad",
+    "test:24":"jest -i retos/24_brincos_escalera",
     "test:25":"jest -i retos/25_calculando_distancias"
-    
   },
   "keywords": [
     "javascript",
