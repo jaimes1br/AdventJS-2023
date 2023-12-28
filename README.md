@@ -60,13 +60,16 @@ npm run test:n  # Para correr una prueba ind. "n" es el número del reto.
 npm run test:1  # Ejectuta el test del reto 1
 ```
 
-<!-- ### Posición -->
+### Posición -->
 
-<!-- El último ejercicio lo realice el 24 de diciembre, para el envió de mi solución mi resultado en posición fue el siguiente. -->
+El último ejercicio lo realice el 27 de diciembre, para el envió de mi solución, mi resultado en posición fue el siguiente.
 
-<!-- <p align="center"> 
-    <img src="https://user-images.githubusercontent.com/91866094/235569110-da111f43-e280-4632-b38c-efcb7e05426a.png"/>
-</p> -->
+<p align="center"> 
+    <img src=""/>
+</p>
 
+El tercer año que completo este reto, me siento contento de realizarlo, esperamos el siguiente con ansias.
+Los repositorios de los años anteriores disponibles en:
 
-<!-- El segundo año que completo este reto, me siento contento de realizarlo, esperamos el siguiente con ansias. -->
+* [AdvetJS-2021](https://github.com/jaimes1br/AdventJS-2021 "AdvetJS-2021")
+* [AdvetJS-2022](https://github.com/jaimes1br/AdventJS-2022 "AdvetJS-2022")
