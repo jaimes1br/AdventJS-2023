@@ -37,6 +37,8 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 21  |          Mensaje binario          |       ✅        | [Mirar](retos/21_mensaje_binario/README.md) |   100   |    🟠    |  
 | 22  |     Lenguaje de programación      |       ✅        | [Mirar](retos/22_lenguaje_programacion/README.md) |   170   |    🟢    |  
 | 23  |       La comida de Navidad        |       ✅        | [Mirar](retos/23_comida_navidad/README.md) |   140   |    🟢    |  
+| 24  |      Brincos en la escalera       |       ❌        | [Mirar](README.md) |   ---   |    🟠    |  
+| 25  |       Calculando distancias       |       ✅        | [Mirar](retos/25_calculando_distancias/README.md) |   160   |    🟠    |  
 
 ### 🧪 Tests
 
